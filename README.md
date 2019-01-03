@@ -1,2 +1,0 @@
-# vinayReactTest
-Created with CodeSandbox

@@ -1,0 +1,16 @@
+[
+  {
+    "payerName": "Vinay",
+    "claimId": 1,
+    "claimAmountSubmitted": 22000,
+    "claimAmountApproved": "Approved",
+    "claimApprovalStatus": "Approved"
+  },
+  {
+    "payerName": "Vin",
+    "claimId": 225,
+    "claimAmountSubmitted": 24000,
+    "claimAmountApproved": "Pending",
+    "claimApprovalStatus": "Pending"
+  }
+]

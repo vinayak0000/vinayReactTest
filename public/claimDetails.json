@@ -1,0 +1,20 @@
+[
+  {
+    "claimId": 212,
+    "userId": 1,
+    "claimName": "delectus",
+    "claimAmount": 22,
+    "claimSubmittedDate": "male",
+    "hospitalName": "Apollo",
+    "claimStatus": "chennai"
+  },
+  {
+    "claimId": 225,
+    "userId": 2,
+    "claimName": "quis",
+    "claimAmount": 24,
+    "claimSubmittedDate": "female",
+    "hospitalName": "cbe",
+    "claimStatus": "chennai"
+  }
+]

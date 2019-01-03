@@ -1,0 +1,18 @@
+[
+  {
+    "userId": 1,
+    "firstName": "vinay",
+    "lastName": "delectus",
+    "age": 22,
+    "gender": "male",
+    "address": "chennai"
+  },
+  {
+    "userId": 2,
+    "firstName": "avm",
+    "lastName": "quis",
+    "age": 24,
+    "gender": "female",
+    "address": "cbe"
+  }
+]
