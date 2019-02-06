@@ -1,15 +1,22 @@
 [
   {
     "payerName": "Vinay",
-    "claimId": 1,
+    "claimId": 212,
     "claimAmountSubmitted": 22000,
     "claimAmountApproved": "Approved",
     "claimApprovalStatus": "Approved"
   },
   {
-    "payerName": "Vin",
+    "payerName": "Vina",
     "claimId": 225,
     "claimAmountSubmitted": 24000,
+    "claimAmountApproved": "Pending",
+    "claimApprovalStatus": "Pending"
+  },
+  {
+    "payerName": "Vina",
+    "claimId": 232,
+    "claimAmountSubmitted": 32000,
     "claimAmountApproved": "Pending",
     "claimApprovalStatus": "Pending"
   }

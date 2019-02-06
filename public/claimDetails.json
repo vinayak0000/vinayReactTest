@@ -2,19 +2,28 @@
   {
     "claimId": 212,
     "userId": 1,
-    "claimName": "delectus",
-    "claimAmount": 22,
-    "claimSubmittedDate": "male",
+    "claimName": "Delectus",
+    "claimAmount": 22000,
+    "claimSubmittedDate": "05-02-2019",
     "hospitalName": "Apollo",
-    "claimStatus": "chennai"
+    "claimStatus": "Approved"
   },
   {
     "claimId": 225,
     "userId": 2,
-    "claimName": "quis",
-    "claimAmount": 24,
-    "claimSubmittedDate": "female",
-    "hospitalName": "cbe",
-    "claimStatus": "chennai"
+    "claimName": "Quis",
+    "claimAmount": 24000,
+    "claimSubmittedDate": "02-01-2019",
+    "hospitalName": "Global",
+    "claimStatus": "Pending"
+  },
+  {
+    "claimId": 232,
+    "userId": 3,
+    "claimName": "Quis",
+    "claimAmount": 32000,
+    "claimSubmittedDate": "10-12-2018",
+    "hospitalName": "Global",
+    "claimStatus": "Pending"
   }
 ]

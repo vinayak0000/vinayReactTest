@@ -11,7 +11,10 @@ class Claim extends React.Component {
   componentDidMount() {
     axios
       .get("/claimDetails.json")
-      .then(json => this.setState({ claimData: json.data }));
+      .then(json => this.setState({ claimData: json.data }))
+      .catch(error => {
+        console.log(error);
+      });
   }
 
   handleChange = event => {

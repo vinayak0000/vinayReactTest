@@ -11,7 +11,10 @@ class InsPayer extends React.Component {
   componentDidMount() {
     axios
       .get("/insPayerDetails.json")
-      .then(json => this.setState({ claimData: json.data }));
+      .then(json => this.setState({ claimData: json.data }))
+      .catch(error => {
+        console.log(error);
+      });
   }
 
   handleChange = event => {
@@ -22,6 +25,8 @@ class InsPayer extends React.Component {
   render() {
     return (
       <div>
+        {/*<Suspense fallback={<div>Loading...</div>}>
+         */}
         <div className="container">
           <div className="row">
             <div className="col-md-12">
@@ -78,6 +83,7 @@ class InsPayer extends React.Component {
             </div>
           </div>
         </div>
+        {/*</Suspense>*/}
       </div>
     );
   }

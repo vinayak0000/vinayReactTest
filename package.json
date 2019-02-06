@@ -1,5 +1,5 @@
 {
-  "name": "insurance",
+  "name": "sun-insurance",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
@@ -12,7 +12,9 @@
     "react-dom": "16.5.2",
     "react-router-dom": "4.3.1",
     "react-scripts": "2.0.3",
-    "semantic-ui-react": "0.84.0"
+    "semantic-ui-react": "0.84.0",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1"
   },
   "devDependencies": {},
   "scripts": {

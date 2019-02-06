@@ -29,8 +29,8 @@ export class Header extends React.Component {
 
           <div className="collapse navbar-collapse" id="navbar-collapse-1">
             <ul className="nav navbar-nav">
-              <li className="active">
-                <a href="#">Home</a>
+              <li>
+                <a href="/home">Home</a>
               </li>
 
               <li className="dropdown">

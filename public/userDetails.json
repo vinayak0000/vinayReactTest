@@ -1,18 +1,26 @@
 [
   {
     "userId": 1,
-    "firstName": "vinay",
-    "lastName": "delectus",
+    "firstName": "Vinay",
+    "lastName": "Delectus",
     "age": 22,
-    "gender": "male",
-    "address": "chennai"
+    "gender": "Male",
+    "address": "Chennai"
   },
   {
     "userId": 2,
-    "firstName": "avm",
-    "lastName": "quis",
+    "firstName": "Vina",
+    "lastName": "Quis",
     "age": 24,
-    "gender": "female",
-    "address": "cbe"
+    "gender": "Female",
+    "address": "Cbe"
+  },
+  {
+    "userId": 3,
+    "firstName": "Avm",
+    "lastName": "Bon",
+    "age": 20,
+    "gender": "Female",
+    "address": "Cbe"
   }
 ]
